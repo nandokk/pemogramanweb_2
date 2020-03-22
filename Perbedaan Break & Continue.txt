@@ -1,0 +1,7 @@
+Break:
+
+perintah break biasa di gunakan untuk menghentikan sebuah perulangan, entah perulangan while, do-while maupun perulangan for.
+
+Continue:
+
+perintah continue merupakan perintah untuk meloncati sebuah perulangan, perintah continue digunakan untuk meloncati perulangan.
